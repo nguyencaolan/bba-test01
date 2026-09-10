@@ -1,5 +1,5 @@
 const powerUp = "star";
-let effect= '';
+let effect= ''; 
 if (powerUp === "mushroom"){
     effect = "Mario becomes Super!";
 }else if (powerUp === "flower"){
