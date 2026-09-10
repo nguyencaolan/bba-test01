@@ -1,0 +1,11 @@
+const playerName = "Mario";
+const currentLives = 3;
+const coins = [25, 30, 45];
+const totalCoins = coins[0] + coins[1] + coins[2];
+let averageCoins;
+console.log(totalCoins);
+averageCoins = totalCoins/3;
+console.log(averageCoins);
+let remainder;
+remainder = totalCoins % 3;
+console.log(remainder);
