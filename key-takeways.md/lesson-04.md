@@ -1,8 +1,8 @@
----
-title: JavaScript -- String Utils & Array Utils
----
 
-Tổng hợp nội dung đã học trong buổi học hôm nay.
+# Buổi 4
+
+
+Tổng hợp nội dung đã học trong buổi 4.
 
 ## 1. String Utils
 
